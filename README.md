@@ -22,3 +22,5 @@ The project can be found at https://www.freecodecamp.org/learn/apis-and-microser
 4. I'll add tests with a coverage of 100% for unit testing
 5. I'll add super test for e2e testing
 6. I'll add a CI/CD pipeline with GitHub Actions
+7. I'll switch to yarn for package management
+8. I'll use TypeScript for type safety
