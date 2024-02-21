@@ -26,3 +26,4 @@ The project can be found at https://www.freecodecamp.org/learn/apis-and-microser
 8. I'll use TypeScript for type safety
 9. I'll use any date library for date parsing such as date-fns
 10. I'll use a linter and formatter such as ESLint and Prettier
+11. I'll use an integration with a board such as Shortcut and GitHub
