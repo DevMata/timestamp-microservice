@@ -17,15 +17,14 @@ The project can be found at https://www.freecodecamp.org/learn/apis-and-microser
 ## My implementation
 
 1. I'll switch from Express to Fastify with Typescript
-2. I'll use a Docker container for the app
-3. I'd try to use ava for unit testing
-4. I'll add tests with a coverage of 100% for unit testing
-5. I'll add super test for e2e testing
-6. I'll add a CI/CD pipeline with GitHub Actions - JS or Docker custom action
-7. I'll switch to yarn for package management
-8. I'll use TypeScript for type safety
-9. I'll use any date library for date parsing such as date-fns
-10. I'll use a linter and formatter such as ESLint and Prettier
-11. I'll use an integration with a board such as Shortcut and GitHub
-12. I'll use a semantic versioning and a changelog
-13. I'll deploy the Javascript app to AWS Lambda
+2. I'll use a Docker container for the app, check https://medium.com/@kartikio/setup-node-ts-local-development-environment-with-docker-and-hot-reloading-922db9016119
+3. I'll use Ava for unit testing with a coverage of 100%
+4. I'll add super test for e2e testing
+5. I'll add a CI/CD pipeline with GitHub Actions - JS or Docker custom action
+6. I'll switch to yarn for package management
+7. I'll use TypeScript for type safety -- check tsup for bundling
+8. I'll use any date library for date parsing such as date-fns
+9. I'll use a linter and formatter such as ESLint and Prettier
+10. I'll use an integration with a project board (e.g. Shortcut or Linear)
+11. I'll use a semantic versioning and a changelog
+12. I'll deploy the Javascript app to AWS Lambda or even EKS
