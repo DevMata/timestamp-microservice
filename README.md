@@ -16,16 +16,16 @@ The project can be found at https://www.freecodecamp.org/learn/apis-and-microser
 
 ## My implementation
 
-1. I want to use git-cz
-2. I want to switch from Express to Fastify with Typescript
-3. I want to use a Docker container for the app, check https://medium.com/@kartikio/setup-node-ts-local-development-environment-with-docker-and-hot-reloading-922db9016119
-4. I want to use Ava for unit testing with a coverage of 100%
-5. I want to add super test for e2e testing
-6. I want to add a CI/CD pipeline with GitHub Actions - JS or Docker custom action
-7. I want to switch to yarn for package management
-8. I want to use TypeScript for type safety -- check tsup for bundling
-9. I want to use any date library for date parsing such as date-fns
-10. I want to use a linter and formatter such as ESLint and Prettier
-11. I want to use an integration with a project board (e.g. Shortcut or Linear)
-12. I want to use a semantic versioning and a changelog with standard-version
-13. I want to deploy the Javascript app to AWS Lambda or even EKS
+- [] I want to use git-cz 
+- [] I want to switch from Express to Fastify with Typescript 
+- [] I want to use a Docker container for the app, check https://medium.com/@kartikio/setup-node-ts-local-development-environment-with-docker-and-hot-reloading-922db9016119
+- [] I want to use Ava for unit testing with a coverage of 100% 
+- [] I want to add super test for e2e testing 
+- [] I want to add a CI/CD pipeline with GitHub Actions - JS or Docker custom action 
+- [] I want to switch to yarn for package management 
+- [] I want to use TypeScript for type safety -- check tsup for bundling 
+- [] I want to use any date library for date parsing such as date-fns 
+- [] I want to use a linter and formatter such as ESLint and Prettier 
+- [] I want to use an integration with a project board (e.g. Shortcut or Linear)
+- [] I want to use a semantic versioning and a changelog with standard-version 
+- [] I want to deploy the Javascript app to AWS Lambda or even EKS
