@@ -26,6 +26,6 @@ The project can be found at https://www.freecodecamp.org/learn/apis-and-microser
 - [] I want to use TypeScript for type safety -- check tsup for bundling 
 - [] I want to use any date library for date parsing such as date-fns 
 - [] I want to use a linter and formatter such as ESLint and Prettier 
-- [] I want to use an integration with a project board (e.g. Shortcut or Linear)
+- [] I want to use an integration with Shortcut or Linear
 - [] I want to use a semantic versioning and a changelog with standard-version 
 - [] I want to deploy the Javascript app to AWS Lambda or even EKS
