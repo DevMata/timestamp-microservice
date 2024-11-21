@@ -12,9 +12,9 @@ The project can be found at https://www.freecodecamp.org/learn/apis-and-microser
 * Your project can handle dates that can be successfully parsed by new Date(date_string)
 * If the input date string is invalid, the API returns an object having the structure { error : "Invalid Date" }
 * An empty date parameter should return the current time in a JSON object with a unix key
-* An empty date parameter should return the current time in a JSON object with a utc key
+* An empty date parameter should return the current time in a JSON object with a UTC key
 
-## My implementation
+## My ideal implementation
 
 - [] I want to use git-cz 
 - [] I want to switch from Express to Fastify with Typescript 
